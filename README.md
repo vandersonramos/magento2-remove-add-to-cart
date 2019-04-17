@@ -1,4 +1,4 @@
-# magento2 - Remove add to cart button
+# Magento2 - Remove add to cart button
 
 ## Overview
 Magento 2 module to disable add to cart button from product and category page for guest.
